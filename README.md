@@ -15,4 +15,4 @@ npm run dev
 
 ## 제출 준비
 
-회원가입 과제 README에 Figma 디자인과 완성된 회원가입 전체 화면을 첨부해야 합니다.
+[회원가입 과제 README와 제출 이미지 보기](week2_assignment/week2_hw/README.md)
