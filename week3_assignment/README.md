@@ -36,7 +36,8 @@ npm run build
 <img width="2400" height="718" alt="스크린샷 2026-10-04 165818" src="https://github.com/user-attachments/assets/73a4e074-7e2c-4dd6-a31e-b2e3e2208354" />
 
 2. **동작 화면**: 할 일을 2개 이상 추가하고 필터를 누른 뒤, 할 일 제목을 클릭해 “선택한 할 일”이 표시된 브라우저 화면.
-<img width="2880" height="1544" alt="스크린샷 2026-10-04 165733" src="https://github.com/user-attachments/assets/21136bc3-2a2d-4f48-9c55-efbf1c956c3d" />
+<img width="2880" height="1544" alt="image" src="https://github.com/user-attachments/assets/d80b90fc-e33d-4497-a0da-96d28966bcaa" />
+
 ## GitHub 제출
 
 공개 저장소에 프로젝트 전체를 올립니다. `node_modules`와 `dist`는 `.gitignore`에서 제외합니다.
